@@ -1,0 +1,28 @@
+{
+  "invoice_number": "1612",
+  "date": "2026-09-29",
+  "seller_name": "ТОО «Ерейментау Агро»",
+  "seller_bin": "888939678427",
+  "buyer_name": "ТОО «Бокейхан Фуд»",
+  "items": [
+    {
+      "name": "Соль, 1 кг",
+      "qty": 110,
+      "unit_price": 160,
+      "amount": 17600
+    },
+    {
+      "name": "Морковь, 10 кг",
+      "qty": 135,
+      "unit_price": 2300,
+      "amount": 310500
+    },
+    {
+      "name": "Яйца, 30 шт",
+      "qty": 75,
+      "unit_price": 2050,
+      "amount": 153750
+    }
+  ],
+  "total": 481850
+}

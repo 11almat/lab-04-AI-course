@@ -1,0 +1,34 @@
+{
+  "invoice_number": "8224",
+  "date": "2026-10-01",
+  "seller_name": "«Сарыарқа Азық» ЖШС",
+  "seller_bin": "574172756263",
+  "buyer_name": "«Нарынқол Трейд» ЖШС",
+  "items": [
+    {
+      "name": "Шай, 100 г",
+      "qty": 115,
+      "unit_price": 980,
+      "amount": 112700
+    },
+    {
+      "name": "Қызылша, 10 кг",
+      "qty": 90,
+      "unit_price": 2000,
+      "amount": 180000
+    },
+    {
+      "name": "Ірімшік, 1 кг",
+      "qty": 65,
+      "unit_price": 4050,
+      "amount": 263250
+    },
+    {
+      "name": "Тұз, 1 кг",
+      "qty": 50,
+      "unit_price": 150,
+      "amount": 7500
+    }
+  ],
+  "total": 563450
+}

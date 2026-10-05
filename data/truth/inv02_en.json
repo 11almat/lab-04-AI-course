@@ -1,0 +1,22 @@
+{
+  "invoice_number": "5149",
+  "date": "2026-09-14",
+  "seller_name": "Shalkar Logistic LLP",
+  "seller_bin": "376583942701",
+  "buyer_name": "Narynkol Trade LLP",
+  "items": [
+    {
+      "name": "Buckwheat, 25 kg",
+      "qty": 75,
+      "unit_price": 17600,
+      "amount": 1320000
+    },
+    {
+      "name": "Sunflower oil, 5 L",
+      "qty": 145,
+      "unit_price": 3300,
+      "amount": 478500
+    }
+  ],
+  "total": 1798500
+}

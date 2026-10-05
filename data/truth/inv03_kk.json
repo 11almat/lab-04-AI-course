@@ -1,0 +1,28 @@
+{
+  "invoice_number": "2309",
+  "date": "2026-09-20",
+  "seller_name": "«Арай Маркет» ЖШС",
+  "seller_bin": "506780056288",
+  "buyer_name": "«Шалқар Логистик» ЖШС",
+  "items": [
+    {
+      "name": "Шай, 100 г",
+      "qty": 15,
+      "unit_price": 940,
+      "amount": 14100
+    },
+    {
+      "name": "Жұмыртқа, 30 дана",
+      "qty": 15,
+      "unit_price": 1900,
+      "amount": 28500
+    },
+    {
+      "name": "Ірімшік, 1 кг",
+      "qty": 50,
+      "unit_price": 3750,
+      "amount": 187500
+    }
+  ],
+  "total": 230100
+}

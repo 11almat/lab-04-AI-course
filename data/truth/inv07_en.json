@@ -1,0 +1,28 @@
+{
+  "invoice_number": "3275",
+  "date": "2026-09-17",
+  "seller_name": "Saryarka Azyk LLP",
+  "seller_bin": "635550844927",
+  "buyer_name": "Kazyna Sauda LLP",
+  "items": [
+    {
+      "name": "Wheat flour, grade 1, 50 kg",
+      "qty": 105,
+      "unit_price": 15600,
+      "amount": 1638000
+    },
+    {
+      "name": "Beef, 1 kg",
+      "qty": 75,
+      "unit_price": 4050,
+      "amount": 303750
+    },
+    {
+      "name": "Sugar, 50 kg",
+      "qty": 150,
+      "unit_price": 21750,
+      "amount": 3262500
+    }
+  ],
+  "total": 5204250
+}

@@ -1,0 +1,34 @@
+{
+  "invoice_number": "8224",
+  "date": "2026-10-01",
+  "seller_name": "Saryarka Azyk LLP",
+  "seller_bin": "574172756263",
+  "buyer_name": "Narynkol Trade LLP",
+  "items": [
+    {
+      "name": "Tea, 100 g",
+      "qty": 115,
+      "unit_price": 980,
+      "amount": 112700
+    },
+    {
+      "name": "Beetroot, 10 kg",
+      "qty": 90,
+      "unit_price": 2000,
+      "amount": 180000
+    },
+    {
+      "name": "Cheese, 1 kg",
+      "qty": 65,
+      "unit_price": 4050,
+      "amount": 263250
+    },
+    {
+      "name": "Salt, 1 kg",
+      "qty": 50,
+      "unit_price": 150,
+      "amount": 7500
+    }
+  ],
+  "total": 563450
+}

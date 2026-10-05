@@ -1,0 +1,34 @@
+{
+  "invoice_number": "8224",
+  "date": "2026-10-01",
+  "seller_name": "ТОО «Сарыарка Азык»",
+  "seller_bin": "574172756263",
+  "buyer_name": "ТОО «Нарынкол Трейд»",
+  "items": [
+    {
+      "name": "Чай, 100 г",
+      "qty": 115,
+      "unit_price": 980,
+      "amount": 112700
+    },
+    {
+      "name": "Свёкла, 10 кг",
+      "qty": 90,
+      "unit_price": 2000,
+      "amount": 180000
+    },
+    {
+      "name": "Сыр, 1 кг",
+      "qty": 65,
+      "unit_price": 4050,
+      "amount": 263250
+    },
+    {
+      "name": "Соль, 1 кг",
+      "qty": 50,
+      "unit_price": 150,
+      "amount": 7500
+    }
+  ],
+  "total": 563450
+}

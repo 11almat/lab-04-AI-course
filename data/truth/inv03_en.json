@@ -1,0 +1,28 @@
+{
+  "invoice_number": "2309",
+  "date": "2026-09-20",
+  "seller_name": "Arai Market LLP",
+  "seller_bin": "506780056288",
+  "buyer_name": "Shalkar Logistic LLP",
+  "items": [
+    {
+      "name": "Tea, 100 g",
+      "qty": 15,
+      "unit_price": 940,
+      "amount": 14100
+    },
+    {
+      "name": "Eggs, 30 pcs",
+      "qty": 15,
+      "unit_price": 1900,
+      "amount": 28500
+    },
+    {
+      "name": "Cheese, 1 kg",
+      "qty": 50,
+      "unit_price": 3750,
+      "amount": 187500
+    }
+  ],
+  "total": 230100
+}
